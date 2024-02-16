@@ -1,7 +1,7 @@
 $$\huge a=\frac vt$$
-a := [[Beschleunigung|Beschleunigung]] 
-v := [[./Geschwindigkeit|Geschwindigkeit]] 
-t := [[Beschleunigungs Zeit|Beschleunigungs Zeit]]
+a := [[Beschleunigung]] 
+v := [[Geschwindigkeit]] 
+t := [[Beschleunigungs Zeit]]
 
 ### Einheit
 $$ \frac m {s2}$$

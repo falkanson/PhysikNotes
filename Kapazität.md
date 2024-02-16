@@ -1,15 +1,15 @@
 $$\huge C=\frac QU$$
-C := [[Kapazität|Kapazität]]
-Q := [[Ladung|Ladung]]
-U := [[./Spannung|Spannung]]
+C := [[Kapazität]]
+Q := [[Ladung]]
+U := [[Spannung]]
 
 ---
-Nur im [[Plattenkondensator|Plattenkondensator]]
+Nur im [[Plattenkondensator]]
 $$\huge C = \epsilon*\frac Ad$$
-C := [[Kapazität|Kapazität]]
-$\epsilon$ := [[Dielektrizitätskonstante|Dielektrizitätskonstante]]
-A := [[Kondensatorfläche|Kondensatorfläche]]
-d := [[Plattenabstand|Plattenabstand]]
+C := [[Kapazität]]
+$\epsilon$ := [[Dielektrizitätskonstante]]
+A := [[Kondensatorfläche]]
+d := [[Plattenabstand]]
 
 ### Einheit
 $$F = \frac CV$$

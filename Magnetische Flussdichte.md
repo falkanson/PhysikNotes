@@ -1,7 +1,7 @@
-In einer [[Schlanken Spule|Schlanken Spule]]
+In einer [[Schlanken Spule]]
 $$\huge B = \mu * \frac nl * I$$
-B := [[Magnetische Flussdichte|Magnetische Flussdichte]]
-$\mu$ := [[Magnetische Permeabilität|Magnetische Permeabilität]]
+B := [[Magnetische Flussdichte]]
+$\mu$ := [[Magnetische Permeabilität]]
 n := Anzahl der Windungen 
-$l$ := [[Länge der Spule|Länge der Spule]]
-$I$ :=[[./Stromstärke|Stromstärke]]
+$l$ := [[Länge der Spule]]
+$I$ :=[[Stromstärke]]

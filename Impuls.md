@@ -1,6 +1,6 @@
 $$\huge p=m*v$$
-p := [[Impuls|Impuls]]  
+p := [[Impuls]]  
 m := Masse des sich bewegenden Körpers
-v := [[./Geschwindigkeit|Geschwindigkeit]] 
+v := [[Geschwindigkeit]] 
 ### Einheit
 $$ kg \frac ms$$

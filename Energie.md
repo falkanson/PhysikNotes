@@ -1,6 +1,6 @@
 $$\huge W=F*s$$
-W := [[Energie|Energie]]
-F := [[./Kraft|Kraft]]
+W := [[Energie]]
+F := [[Kraft]]
 s := Distanz auf der die Kraft gewirkt wird
 
 ### Einheit

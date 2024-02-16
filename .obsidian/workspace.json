@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "9f6e714846220f50",
+    "type": "split",
+    "children": [
+      {
+        "id": "0365a3f8e8111eca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "697da638cc06d827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Halbwertszeit Kondensator.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2e442e92d2b4654",
+    "type": "split",
+    "children": [
+      {
+        "id": "9517da22790e420f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f6eb87d0bc3bcfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "be2bdcaef10b16ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "602c777891b99819",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca5abdfd05ecb521",
+    "type": "split",
+    "children": [
+      {
+        "id": "b017a69e696fee45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eccb097576ebe0dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Halbwertszeit Kondensator.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b668a1f5864511f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Halbwertszeit Kondensator.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8c6070951cced87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a1c298581886b9d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Halbwertszeit Kondensator.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "697da638cc06d827",
+  "lastOpenFiles": [
+    "Laden eines Kondensators.md",
+    "Halbwertszeit Kondensator.md",
+    "Kapazität.md",
+    "Entladen eines Kondensators.md",
+    "Stromstärke.md",
+    "Induktions Spannung.md",
+    "Elektron im Magnetfeld.md",
+    "Wienchester Geschwindigkeitsfilter.md",
+    "Lorenzkraft.md",
+    "Zentripedalkraft.md",
+    "Magnetische Flussdichte.md",
+    "Schwingungsformel.md",
+    "Maximale Auslenkung.md",
+    "Maximale Schwingbeschleunigung.md",
+    "Maximale Schwinggeschwindigkeit.md",
+    "Schwingungsbeschläunigung.md",
+    "Schwinggeschwindigkeit.md",
+    "Schwingung Auslenkung.md",
+    "Beschleunigt Bewegung.md",
+    "Winkelgeschwindigkeit.md",
+    "Fadenpendel.md",
+    "Energiedichte im Kondensator.md",
+    "Kraft.md",
+    "Kondensator Energie.md",
+    "Elektrischefeldstärke.md",
+    "Dielektrizitätskonstante.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Overview.canvas"
+  ]
+}

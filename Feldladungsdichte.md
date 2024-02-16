@@ -1,4 +1,4 @@
 $$\huge \sigma=\frac QA$$
-$\sigma$ := [[Feldladungsdichte|Feldladungsdichte]]
-Q := [[Ladung|Ladung]]
-A := [[Kondensatorfläche|Kondensatorfläche]]
+$\sigma$ := [[Feldladungsdichte]]
+Q := [[Ladung]]
+A := [[Kondensatorfläche]]

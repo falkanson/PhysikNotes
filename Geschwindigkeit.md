@@ -1,6 +1,6 @@
 $$\huge v=\frac st$$
-s := [[Bewegte Strecke|Bewegte Strecke]]
-v := [[Geschwindigkeit|Geschwindigkeit]]  
-t := [[Bewegungs Dauer|Bewegungs Dauer]]
+s := [[Bewegte Strecke]]
+v := [[Geschwindigkeit]]  
+t := [[Bewegungs Dauer]]
 ### Einheit
 $$ \frac ms$$

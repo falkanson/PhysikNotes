@@ -1,12 +1,12 @@
 $$\huge F=m*a$$
-F := [[Kraft|Kraft]]
+F := [[Kraft]]
 m := Masse des beschleunigten Körpers
-a := [[./Beschleunigung|Beschleunigung]] 
+a := [[Beschleunigung]] 
 
 ---
 $$\huge F = \frac pt$$
-F := [[Kraft|Kraft]]
-p := [[./Impuls|Impuls]]
+F := [[Kraft]]
+p := [[Impuls]]
 t := Wirkungsdauer
 ### Einheit
 $$N=kg \frac m {s²}$$

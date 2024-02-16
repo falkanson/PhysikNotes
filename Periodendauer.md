@@ -1,19 +1,19 @@
 $$\huge T = \frac1f$$
-T := [[Periodendauer|Periodendauer]]
-f := [[./Frequenz|Frequenz]]
+T := [[Periodendauer]]
+f := [[Frequenz]]
 
 ---
 $$\huge T = 2\pi \sqrt{\frac mD}$$
-T := [[Periodendauer|Periodendauer]]
-m := [[Schwinggewichtmasse|Schwinggewichtmasse]]
-D := [[./Federkonstante|Federkonstante]]
+T := [[Periodendauer]]
+m := [[Schwinggewichtmasse]]
+D := [[Federkonstante]]
 
-Gilt nur beim [[Federpendeln|Federpendeln]]
+Gilt nur beim [[Federpendeln]]
 
 ---
 $$\huge T=2\pi\sqrt{\frac lg}$$
-T := [[Periodendauer|Periodendauer]]
-l := [[Pendellänge|Pendellänge]]
-g := [[Ortsfaktor|Ortsfaktor]]
+T := [[Periodendauer]]
+l := [[Pendellänge]]
+g := [[Ortsfaktor]]
 
-Gilt nur im [[./Fadenpendel|Fadenpendel]]
+Gilt nur im [[Fadenpendel]]

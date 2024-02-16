@@ -1,5 +1,5 @@
 $$\huge W=m*g*h$$
-W := [[./Energie|Energie]]
+W := [[Energie]]
 m := Masse des Angehobenen Körpers
-g := [[Ortsfaktor|Ortsfaktor]]
+g := [[Ortsfaktor]]
 h := Höhe auf die angehoben wurde

@@ -1,6 +1,6 @@
 $$\huge F = -Ds$$
-F := [[./Kraft|Kraft]]
-D := [[./Federkonstante|Federkonstante]]
-s := [[Auslenkung|Auslenkung]]
+F := [[Kraft]]
+D := [[Federkonstante]]
+s := [[Auslenkung]]
 
 Bedingung für eine Harmonische Schwingung

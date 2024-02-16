@@ -1,6 +1,6 @@
 $$\huge R=\frac UI$$
-R := [[Widerstand|Widerstand]]
-U := [[./Spannung|Spannung]]
-I := [[./Stromstärke|Stromstärke]]
+R := [[Widerstand]]
+U := [[Spannung]]
+I := [[Stromstärke]]
 ### Einheit
 $$\omega = \frac VA$$

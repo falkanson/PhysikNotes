@@ -1,6 +1,6 @@
 $$\huge W = \frac 12CU^2$$
-W := [[./Energie|Energie]]
-C := [[./Kapazität|Kapazität]]
-U := [[./Spannung|Spannung]]
+W := [[Energie]]
+C := [[Kapazität]]
+U := [[Spannung]]
 
-Gilt nur im [[Plattenkondensator|Plattenkondensator]]
+Gilt nur im [[Plattenkondensator]]
