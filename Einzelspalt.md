@@ -1,0 +1,1 @@
+Wie [[Doppelspalt]] nur das k von den Minima ausgeht
