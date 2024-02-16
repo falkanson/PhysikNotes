@@ -8,3 +8,5 @@ l := länge des Leiters
 $$\huge U=n*B*\frac{A_{s}}t$$
 U := [[Spannung]]
 n := anzahl der Windungen
+B := [[Magnetische Flussdichte]]
+$A_s$ := Querschnittsfläche der Spule
