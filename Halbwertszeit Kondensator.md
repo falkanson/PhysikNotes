@@ -5,4 +5,3 @@ C := [[Kapazität]]
 
 Bezieht sich auf [[Entladen eines Kondensators]]
 Sollte auch beim [[Laden eines Kondensators]] gelten
-
