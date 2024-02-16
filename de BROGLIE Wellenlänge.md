@@ -1,7 +1,7 @@
 $$\huge \lambda = \frac{h}{m*v}$$
 $\lambda$ := [[Wellenlänge]]
 h := [[Plankkonstante]]
-m := [[Masse des Teilchens]
+m := Masse des Teilchens
 v := [[Geschwindigkeit]]
 
 eigentlich:
