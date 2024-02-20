@@ -1,3 +1,3 @@
-$$W=mc²$$
+$$\huge W=mc²$$
 W := [[Energie]]
 c = [[Lichtgeschwindigkeit]]
