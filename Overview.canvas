@@ -59,7 +59,7 @@
 		{"id":"cd82f393085bc744","type":"file","file":"Fadenpendel.md","x":-9160,"y":-4740,"width":400,"height":400,"color":"2"},
 		{"id":"4f736cd5ddf15d25","type":"file","file":"Heisenbergsche Unschärferelation.md","x":-8700,"y":-2340,"width":400,"height":400,"color":"4"},
 		{"id":"8539637b7defb12f","type":"file","file":"Entropie.md","x":-9620,"y":-2340,"width":400,"height":400},
-		{"id":"10b2438ee586e745","type":"text","text":"# Hoffentlich eine komplette Physik Formelsammlung ","x":-8240,"y":-2340,"width":369,"height":400}
+		{"id":"10b2438ee586e745","type":"text","text":"# Hoffentlich eine komplette Physik Formelsammlung \n **$\\definecolor{color}{RGB}{233, 151, 63} \\color{color} \\blacksquare$ Schwingungen**\n **$\\definecolor{color}{RGB}{168, 130, 255} \\color{color} \\blacksquare$ Wellen**\n **$\\definecolor{color}{RGB}{68, 207, 110} \\color{color} \\blacksquare$ Quantenphysik**\n **$\\definecolor{color}{RGB}{224, 222, 113} \\color{color} \\blacksquare$ Elektrisches Feld**\n **$\\definecolor{color}{RGB}{107,168,225} \\color{color} \\blacksquare$ Magnetisches Feld & Induktion**","x":-8240,"y":-2340,"width":369,"height":400}
 	],
 	"edges":[]
 }
