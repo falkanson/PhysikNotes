@@ -19,7 +19,7 @@ g := [[Ortsfaktor]]
 Gilt nur im [[Fadenpendel]]
 
 ---
-$$\huge T = \sqrt{LC}$$
+$$\huge T = 2\pi\sqrt{LC}$$
 T := [[Periodendauer]]
 L := [[Induktivität]]
 C := [[Kapazität]]
