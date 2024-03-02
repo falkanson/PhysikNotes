@@ -12,3 +12,5 @@ $\lambda$ := [[Wellenlänge]]
 g := [[Gitterkonstante]]
 
 [[Interferenz]]
+
+Für kleine $\alpha$ gilt $sin(\alpha) = tan(\alpha)$

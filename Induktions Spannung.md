@@ -7,12 +7,12 @@ l := länge des Leiters
 
 ---
 Da Spannung nicht nur durch Bewegung sondern auch durch Veränderung der Fläche im Feld oder der stärke des Magnetfeldes gelten auch:
-$$\huge U=n*B*\frac{\Delta A_{s}}{\Delta t}$$
+$$\huge U=-n*B*\frac{\Delta A_{s}}{\Delta t}$$
 U := [[Spannung]]
 n := anzahl der Windungen
 B := [[Magnetische Flussdichte]]
 $A_s$ := Änderung Querschnittsfläche der Spule
-$$\huge U = n*A_{s}* \frac {\Delta B}{\Delta t}$$U := [[Spannung]]
+$$\huge U = -n*A_{s}* \frac {\Delta B}{\Delta t}$$U := [[Spannung]]
 n := anzahl der Windungen
 B := Änderung [[Magnetische Flussdichte]]
 $A_s$ := Querschnittsfläche der Spule
